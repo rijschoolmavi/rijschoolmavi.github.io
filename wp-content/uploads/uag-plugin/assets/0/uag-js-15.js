@@ -1,0 +1,4 @@
+document.addEventListener("DOMContentLoaded", function(){ window.addEventListener("DOMContentLoaded", function(){
+	UAGBForms.init( {"block_id":"84254e33","reCaptchaEnable":false,"reCaptchaType":"v2","reCaptchaSiteKeyV2":"","reCaptchaSecretKeyV2":"","reCaptchaSiteKeyV3":"","reCaptchaSecretKeyV3":"","afterSubmitToEmail":"info@rijschoolmavi.nl","afterSubmitCcEmail":"","afterSubmitBccEmail":"","afterSubmitEmailSubject":"Rijschool Mavi - Contact","sendAfterSubmitEmail":true,"confirmationType":"message","hidereCaptchaBatch":false,"captchaMessage":"Gelieve bovenstaande captcha in te vullen.","confirmationUrl":""}, '.uagb-block-84254e33', 15 );
+});
+ });
